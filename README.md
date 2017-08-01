@@ -1,5 +1,5 @@
 # nodejs-device-hekr
-使用nodejs作为设备端接氦氪云平台
+使用nodejs作为设备端接入氦氪云平台
 
 ### 必备条件：
 * 氦氪云平台的开发者账号(个人开发者认证就可以了)
@@ -40,7 +40,7 @@ device-example.js使用的产品通信协议来自 [氦氪云入门教程04-基�
 实际使用时只需要把devTid和prodKey修改成自己的就可以了。
 
 详细的使用实例请参考
-[使用nodejs作为设备端接氦氪云平台之SDK演示插座](http://bbs.hekr.me/forum.php?mod=viewthread&tid=92)
+[使用nodejs作为设备端接入氦氪云平台之SDK演示插座](http://bbs.hekr.me/forum.php?mod=viewthread&tid=92)
 
 ### 注意事项：
 * 本程序支持TCP断线重连，路由器断电或者断网恢复之后，TCP会重新连接。
